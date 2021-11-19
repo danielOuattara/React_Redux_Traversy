@@ -61,8 +61,7 @@ class PostForm extends Component {
                 <input type="submit" value="submit"/>
                 </form>
             </div>
-        )
+        );
     }
 }
-
 export default PostForm;
